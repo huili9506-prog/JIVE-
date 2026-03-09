@@ -1,3 +1,6 @@
 1. sudo apt-get install eclipse
 2. sudo apt update % change the source if this command does not work well
 3. sudo apt install eclipse-cdt
+
+
+sudo ldconfig % for solve error while loading shared libraries: libvtkCommonDataModel-8.1.so.1: cannot open shared object file: No such file or directory
